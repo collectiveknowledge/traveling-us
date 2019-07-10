@@ -1,4 +1,4 @@
-Viajando a estados unidos
+## Viajando a estados unidos
 
 - Seguro medico
 - Donde vivir
