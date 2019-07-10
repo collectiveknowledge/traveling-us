@@ -1,5 +1,6 @@
 ---
 title: Contributing
+permalink: /CONTRIBUTING
 ---
 # CONTRIBUTING
 
