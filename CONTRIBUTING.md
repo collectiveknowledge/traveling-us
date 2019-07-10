@@ -1,6 +1,6 @@
 ---
 title: Contributing
-permalink: /CONTRIBUTING.md
+permalink: /CONTRIBUTING
 ---
 # CONTRIBUTING
 
